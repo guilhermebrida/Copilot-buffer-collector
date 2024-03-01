@@ -1,6 +1,3 @@
-package br.com.crearesistemas.communicator
-
-
 import com.fazecast.jSerialComm.SerialPort
 import org.hibernate.internal.util.BytesHelper
 import java.io.BufferedReader
